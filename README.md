@@ -10,7 +10,7 @@ git clone --depth=1 https://github.com/mayTermux/myTermux.git
 - Move to Folder
 
 ```bash
-cd myTermux
+cd NoukTermux
 ```
 
 - export variable `COLUMNS` and `LINES`
